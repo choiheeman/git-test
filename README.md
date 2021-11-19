@@ -1,0 +1,3 @@
+# GIT TEST REPOSITORY
+
+GIT 체험용 데모 저장소
