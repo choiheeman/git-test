@@ -8,9 +8,13 @@ GIT 체험용 데모 저장소
 - Add
 - Checkout
 
-```
+```java
 public class Abc {
   public static void main(String[] args){
   }
 }
 ```
+
+```python
+print("hello")
+````
