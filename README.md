@@ -2,4 +2,15 @@
 
 GIT 체험용 데모 저장소
 
-[link] git clone https://https://github.com/choiheeman/git-test
+`git clone https://https://github.com/choiheeman/git-test`
+
+- Commit
+- Add
+- Checkout
+
+```
+public class Abc {
+  public static void main(String[] args){
+  }
+}
+```
